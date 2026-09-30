@@ -3,7 +3,7 @@ Repositorio de la actividad inicial del módulo
 Desarrollo Web en Entorno Servidor.
 
 ## Alumno/a
-gpadgonc
+Gavoom
 
 ## Objetivo
 Comprobar el flujo básico de trabajo con Git y GitHub:
